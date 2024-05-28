@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kim</h1>
-<h3 align="center">A passionate web developer from Brazil</h3>
+<h1 align="center">Hi 👋, I'm Kim Cid</h1>
+<h3 align="center">Brazilian Dev living in Canada</h3>
 
-- 🌱 I’m currently learning **Javascript, React, Node**
+- 🌱 I’m currently learning **React, Node, Nextjs, Threejs**
 
 - 💬 Ask me about **react**
 
